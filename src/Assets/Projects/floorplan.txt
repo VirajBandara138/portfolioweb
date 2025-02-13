@@ -1,0 +1,6 @@
+Our project, AI-Driven Floor Plan Generation for Architectural Design, focuses on developing an AI-based system to automate floor plan generation, 
+streamlining the architectural design process. Inspired by Stanislas Chaillou's methodology, 
+we designed a workflow consisting of three key models: a Shape Detection Model that processes 
+survey plans, detects plot boundaries, and generates suitable building footprints; a 2D Floor Plan 
+Generation Model that uses a pix2pix GAN to segment building footprints into functional room layouts; 
+and a 3D Visualization Model (planned for future development) that will convert the generated floor plans into interactive 3D views.
